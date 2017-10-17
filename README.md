@@ -1,7 +1,8 @@
 # docs
+Satoshi Fantasy is now Protoblock 
 
-Whitepaper
 
-http://satoshifantasy.com/media/satoshifantasy.pdf
+Join us on Slack:   https://protoblock.herokuapp.com/
+Download our Apps:  http://protoblock.com/template/download.html
+Read our White paper: http://protoblock.com/Protoblock_Original_Whitepaper-SatoshiFantasy.pdf
 
-https://github.com/SatoshiFantasy/fantasybit/tree/windows/docs
